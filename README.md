@@ -11,13 +11,13 @@ Through cybersecurity training and hands-on labs, I have developed practical exp
 
 My goal is to combine technical cybersecurity skills with my professional background in auditing and risk management to contribute to a Security Operations Center (SOC) or Governance, Risk & Compliance (GRC) team.
 
-## 🛡️ Certifications
+## Certifications
 
 CompTIA Security+ (SY0-701) | August 2026
 
 ASQ Certified Quality Improvement Associate (CQIA) | February 2024
 
-## 💻 Technical Skills
+## Technical Skills
 
 Security Monitoring & SIEM
 
@@ -59,7 +59,7 @@ Compliance Documentation
 
 AS9100 / AS9110 / ISO 9001
 
-## 🔎 Cybersecurity Projects
+## Cybersecurity Projects
 
 Security Operations
 
@@ -83,7 +83,7 @@ Audit Findings & Corrective Action Plans
 
 Project documentation and supporting evidence will be added as projects are completed.
 
-## 🎯 Career Objectives
+## Career Objectives
 
 Currently pursuing opportunities in:
 
