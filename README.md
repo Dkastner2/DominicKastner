@@ -1,7 +1,7 @@
 # Dominic Kastner
 
 
-Cybersecurity | Security Operations | Governance, Risk & Compliance
+### Cybersecurity | Security Operations | Governance, Risk & Compliance
 
 CompTIA Security+ certified professional transitioning into cybersecurity with 7+ years of aerospace quality assurance, auditing, compliance, and risk management experience.
 
@@ -13,86 +13,86 @@ My goal is to combine technical cybersecurity skills with my professional backgr
 
 ## Certifications
 
-CompTIA Security+ (SY0-701) | August 2026
+**CompTIA Security+ (SY0-701) | August 2026**
 
-ASQ Certified Quality Improvement Associate (CQIA) | February 2024
+**ASQ Certified Quality Improvement Associate (CQIA) | February 2024**
 
 ## Technical Skills
 
-Security Monitoring & SIEM
+### Security Monitoring & SIEM
 
-Splunk
+- Splunk
 
-Wazuh
+- Wazuh
 
-Microsoft Sentinel
+- Microsoft Sentinel
 
-Graylog
+- Graylog
 
-Endpoint & Network Security
+### Endpoint & Network Security
 
-Sysmon
+- Sysmon
 
-Windows Event Viewer
+- Windows Event Viewer
 
-Wireshark
+- Wireshark
 
-pfSense
+- pfSense
 
-Security Frameworks
+### Security Frameworks
 
-NIST Cybersecurity Framework
+- NIST Cybersecurity Framework
 
-MITRE ATT&CK
+- MITRE ATT&CK
 
-Incident Response Procedures
+- Incident Response Procedures
 
-Governance, Risk & Compliance
+### Governance, Risk & Compliance
 
-Internal & Supplier Auditing
+- Internal & Supplier Auditing
 
-Risk Assessment
+- Risk Assessment
 
-Corrective Action Management
+- Corrective Action Management
 
-Compliance Documentation
+- Compliance Documentation
 
-AS9100 / AS9110 / ISO 9001
+- AS9100 / AS9110 / ISO 9001
 
 ## Cybersecurity Projects
 
-Security Operations
+### Security Operations
 
-Security Alert Investigations
+- Security Alert Investigations
 
-SIEM Monitoring & Analysis
+- SIEM Monitoring & Analysis
 
-Endpoint Security Monitoring
+- Endpoint Security Monitoring
 
-Incident Response Documentation
+- Incident Response Documentation
 
-Governance, Risk & Compliance
+### Governance, Risk & Compliance
 
-NIST CSF 2.0 Assessments
+- NIST CSF 2.0 Assessments
 
-Cybersecurity Risk Registers
+- Cybersecurity Risk Registers
 
-Security Control Assessments
+- Security Control Assessments
 
-Audit Findings & Corrective Action Plans
+- Audit Findings & Corrective Action Plans
 
-Project documentation and supporting evidence will be added as projects are completed.
+*Project documentation and supporting evidence will be added as projects are completed.*
 
 ## Career Objectives
 
 Currently pursuing opportunities in:
 
-SOC Analyst I
+- SOC Analyst I
 
-Junior GRC Analyst
+- Junior GRC Analyst
 
-Cybersecurity Analyst
+- Cybersecurity Analyst
 
-Information Security Analyst
+- Information Security Analyst
 
-Professional Focus: Applying practical cybersecurity knowledge and established experience in auditing, compliance, and risk management to strengthen organizational security.
+**Professional Focus**: Applying practical cybersecurity knowledge and established experience in auditing, compliance, and risk management to strengthen organizational security. 
